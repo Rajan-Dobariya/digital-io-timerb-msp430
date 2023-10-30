@@ -24,6 +24,9 @@ To ensure the counter counting from 00 to 59 on a two-digit seven-segment displa
 **Step 11**: Repeating the loop, repeating displaying 0 to 59 digits.
 
 
+## Pseudocode for Digital-I-O-TimerB-MSP430
+
+To see the **(Common Anode)** pin configuration refer this [image](https://github.com/Rajan-Dobariya/digital-io-timerb-msp430/blob/main/C-Anode_Pinconfig.jpg) 
 
 ## Output
 
